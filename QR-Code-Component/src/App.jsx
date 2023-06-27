@@ -1,11 +1,11 @@
 import './App.css'
+import QR_code from './components/QR_code'
 
 function App() {
-
   return (
     <>
-      Hello World
-    </>
+      <QR_code />
+    </> 
   )
 }
 
