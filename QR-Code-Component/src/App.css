@@ -14,7 +14,7 @@ body {
   font-size: 15px;
 }
 
-.QR_card {
+.card {
   background-color: white;
   width: 350px;
   height: 550px;
@@ -24,7 +24,7 @@ body {
   align-items: center;
 }
 
-#QR_img {
+.card_img {
   display: flex;
   height: 320px;
   width: 320px;
@@ -32,7 +32,7 @@ body {
   border-radius: 20px;
 }
 
-#QR_paragraph_1 {
+.card_paragraph_1 {
   margin-top: 30px;
   font-weight: 700;
   text-align: center;
@@ -41,7 +41,7 @@ body {
   width:80%;
 }
 
-#QR_paragraph_2 {
+.card_paragraph_2 {
   margin-top:0px;
   font-weight: 400;
   text-align: center;
